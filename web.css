@@ -1,0 +1,11 @@
+
+.media-form 
+{ 
+  max-width: 360px;   padding: 8% 0 0;   margin:auto; 
+} body { 
+  background: #110033; 
+} 
+.video { 
+  width: 100%; 
+} 
+#header h1 a { color: #371212; text-decoration: none; font-weight: 100; letter-spacing: -2px; } a { text-decoration: none; color: #000000; } 
